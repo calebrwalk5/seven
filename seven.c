@@ -1,3 +1,4 @@
+/* I HATE SEVEN */
 #include <stdio.h>
 
 int main() {
